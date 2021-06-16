@@ -11,6 +11,17 @@ I have a vast experience on Spring boot security, Jwt role based authentication,
 3. Angular 10+ <br>
 4. Thymleaf <br>
 5. Mysql/Oracle <br>  
+6. tomcat <br>
+7. Linux server (PUTTY) <br>
+8. HTML,CSS,Bootstrap <br>
+9. Laravel <br> <br>
+
+<b> Projects </b> <br>
+ 1. Education Project <br>
+ 2. ThikThak </br>
+ 3. Smart Weight Scale <br>
+ 4. Exam Portal <br>
+ 5. EMart Ecommerce <br>
 </p>
 
 
