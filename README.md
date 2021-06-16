@@ -14,7 +14,7 @@ I have a vast experience on Spring boot security, Jwt role based authentication,
 6. tomcat <br>
 7. Linux server <br>
 8. HTML,CSS,Bootstrap <br>
-9. Laravel 8 <br> <br>
+9. Laravel 8 <br>
 10. CodeIgniter 3 <br>
 
 <b> Projects </b> <br>
