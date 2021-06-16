@@ -3,8 +3,8 @@
 
 <p align = "justify">I am a full stack developer. I jave a 2 years professional experince on spring boot and angular js.I mostly work with Rest api based task and front end using js cleint.
 I have a more than 5 production level software running.
-I have a vast experience on Spring boot security, Jwt role based authentication, scheduler, Microservices, Swagger open api documentation, payment integration
-<b> My Experiences </b>
+I have a vast experience on Spring boot security, Jwt role based authentication, scheduler, Microservices, Swagger open api documentation, payment integration <br>
+<b> My Experiences </b> <br>
 1. Spring boot <br>
 2. REST API <br>
 3. Angular 10+ <br>
