@@ -5,16 +5,17 @@
 <p align = "justify">I am a full stack developer. I have a 2 years professional experince on spring boot and angular.I mostly work with Rest api based task and front end using js cleint.
 I have a more than 5 production level software running.
 I have a vast experience on Spring boot security, Jwt role based authentication, scheduler, Microservices, Swagger open api documentation, payment integration <br> <br>
-<b> My Experiences </b> <br>
+<b> My Experiences ::  </b> <br> <br>
 1. Spring boot <br>
 2. REST API <br>
 3. Angular 10+ <br>
 4. Thymleaf <br>
 5. Mysql/Oracle <br>  
 6. tomcat <br>
-7. Linux server (PUTTY) <br>
+7. Linux server <br>
 8. HTML,CSS,Bootstrap <br>
-9. Laravel <br> <br>
+9. Laravel 8 <br> <br>
+10. CodeIgniter 3 <br>
 
 <b> Projects </b> <br>
  1. Education Project <br>
