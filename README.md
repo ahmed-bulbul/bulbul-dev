@@ -38,7 +38,7 @@ I have a vast experience on Spring boot security, Jwt role based authentication,
 
 <br>
 <a href = "https://github.com/bulbul-deploy/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-talukder&layout=compact&theme=vue&langs_count=6" align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul-deploy&layout=compact&theme=vue&langs_count=6" align = "center">
 </a>
 
 <a href = "https://github.com/bulbul-deploy/github-readme-stats">
