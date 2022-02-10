@@ -2,34 +2,77 @@
 <h1 align = "center">Bulbul Ahmed<br> <a href = "https://www.linkedin.com/in/bdbulbul/" title = "Connect with me on LinkedIn"><img src = "images/linkedin.png" width = "25px" height = "25px"></a> • <a href = "https://www.facebook.com/bd.bulbul/" title = "Follow me on Facebook"><img src = "images/facebook-circular-logo.png" width = "25px" height = "24px"></a></a> •  <a href = "https://www.instagram.com/bd.bulbul.me/" title = "Follow me on Instagram"><img src = "images/instagram.png" width = "25px" height = "25px"></a></h1>
 
 
-<p align = "justify">I am a full stack developer. I have a 2 years professional experince on spring boot and angular.I mostly work with Rest api based task and front end using js cleint.
-I have a more than 5 production level software running.
-I have a vast experience on Spring boot security, Jwt role based authentication, scheduler, Microservices, Swagger open api documentation, payment integration <br> <br>
+<p>
+I am Software Engineer working in software development and research for the last 2.5 years.
 
-<b> Experience </b> <br>
-   Software Enginner at Walton Group <br>
- 
- <b> My Skills ::  </b> <br> 
- 
-1. Spring boot <br>
-2. REST API <br>
-3. Angular 10+ <br>
-4. Thymleaf <br>
-5. Mysql/Oracle <br>  
-6. tomcat <br>
-7. Linux server <br>
-8. HTML,CSS,Bootstrap <br>
-9. Laravel 8 <br>
-10. CodeIgniter 3 <br>
+-Highly Skilled in Spring boot, java, Angular, Thymleaf,  Database Design, System Design
+-Worked with: Spring -boot Microservice, Resilience4j Circuit breaker, Jwt Auth Filter,   Spring Cloud, 
+  Laravel, Codeigniter,  Attendance Device Data fetch
+-Currently Worked on HRMS Project
+-Experience on RDBMS(Oracle,Mysql,PostgresSQL)
+-Hands-On experiences on JWT, OAuth2, Spring Security, Role-Based  Authentication, Menu Based 
+   Authentication
+-Worked with Jasper Report and Integration with Angular/Thymleaf
+-Worked with CI/CD pipelines, Docker, Tomcat
+-Project deploying experiences on Linux/windows server
+-version control git, svn
 
-<b> Projects </b> <br>
- 1. Education Project <br>
- 2. ThikThak </br>
- 3. Smart Weight Scale <br>
- 4. Exam Portal <br>
- 5. EMart Ecommerce <br>
+Responsibility
+---------------------------
+● Database Design 
+● System Design
+● To prepare Module based environment
+● Collaborate with team members and management
+● Maintaining CI/CD Pipelines
+● Integrate Core setup[Front end and Backend] Like Auth/Role-Based Permission
+● Deploy Project On Server and fix Server related issues
+● Jasper Report and Integrate with front end
+● Contribute Backend Frontend And Server Side
+
+HRMS Project And Module
+-------------------------------
+● Technology :
+--------------------------------
+Backend: Spring Boot[RESTful API]
+FrontEnd : Angular v-11
+Report: Jasper Report
+Database: Oracle and Postgres
+CI/CD: Docker, Github CI/CD PipeLines
+Deploy On: Linux and Windows Server
+
+Modules
+-------------------------
+● Authentication & Authorization Module : 
+   >> [Role Based and Menu Based]-- Using Spring Security,
+   >> Jwt Token-based Auth System,
+   >> Custom Interceptor,
+   >>  Generate Token, 
+   >> Register With Roles,
+   >>  FetchedCurrent User with Proper Authentication and Authorization. 
+● Core HR Module:
+   >> Create Employee
+   >> Create Employee Assignment
+   >> Adding Employee Bank And Payroll Information
+   >> Adding All Educational Information
+   >> Employee Profile Master View with proper authorization
+● Attendance Module
+  >> Data fetch from Attendance Device[zkTime5.0 etc] and calculate all related data
+  >> Ensure Daily punch
+● Approval Moodule
+  >> All requisition and request go via approval process
+  >> Like Leave,Process,Sim,E-Ticket etc
+● Payroll Module
+  >> Generate payroll
+  >> System Generated Payslip
+● Report Module [with Jasper]
+  >> Payslip Report
+  >> Attendance Report etc
+● Common Module
+  >> Organization Organogram
+● Batch Job Module
+ >> All Jobs are handled with UI/java
+
 </p>
-
 
 
 
