@@ -29,49 +29,6 @@ Responsibility
 ● Jasper Report and Integrate with front end
 ● Contribute Backend Frontend And Server Side
 
-HRMS Project And Module
--------------------------------
-● Technology :
---------------------------------
-Backend: Spring Boot[RESTful API]
-FrontEnd : Angular v-11
-Report: Jasper Report
-Database: Oracle and Postgres
-CI/CD: Docker, Github CI/CD PipeLines
-Deploy On: Linux and Windows Server
-
-Modules
--------------------------
-● Authentication & Authorization Module : 
-   >> [Role Based and Menu Based]-- Using Spring Security,
-   >> Jwt Token-based Auth System,
-   >> Custom Interceptor,
-   >>  Generate Token, 
-   >> Register With Roles,
-   >>  FetchedCurrent User with Proper Authentication and Authorization. 
-● Core HR Module:
-   >> Create Employee
-   >> Create Employee Assignment
-   >> Adding Employee Bank And Payroll Information
-   >> Adding All Educational Information
-   >> Employee Profile Master View with proper authorization
-● Attendance Module
-  >> Data fetch from Attendance Device[zkTime5.0 etc] and calculate all related data
-  >> Ensure Daily punch
-● Approval Moodule
-  >> All requisition and request go via approval process
-  >> Like Leave,Process,Sim,E-Ticket etc
-● Payroll Module
-  >> Generate payroll
-  >> System Generated Payslip
-● Report Module [with Jasper]
-  >> Payslip Report
-  >> Attendance Report etc
-● Common Module
-  >> Organization Organogram
-● Batch Job Module
- >> All Jobs are handled with UI/java
-
 </p>
 
 
