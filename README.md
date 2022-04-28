@@ -3,7 +3,7 @@
 
 
 <p>
-I am Software Engineer working in software development and research for the last 2.5 years.
+I am a Software Engineer working in software development and research for the last 2.5 years.
 
 -Highly Skilled in Spring boot, java, Angular, Thymleaf,  Database Design, System Design </br>
 -Worked with: Spring -boot Microservice, Resilience4j Circuit breaker, Jwt Auth Filter,   Spring Cloud, 
