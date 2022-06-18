@@ -8,7 +8,7 @@ I am a Software Engineer working in software development and research for the la
 -Highly Skilled in Spring boot, java, Angular, Thymleaf,  Database Design, System Design </br>
 -Worked with: Spring -boot Microservice, Resilience4j Circuit breaker, Jwt Auth Filter,   Spring Cloud, 
   Laravel, Codeigniter,  Attendance Device Data fetch  </br>
--Currently Worked on HRMS Project  </br>
+-Currently, I am  Working on HRMS Project  </br>
 -Experience on RDBMS(Oracle,Mysql,PostgresSQL)  </br>
 -Hands-On experiences on JWT, OAuth2, Spring Security, Role-Based  Authentication, Menu Based 
    Authentication  </br>
