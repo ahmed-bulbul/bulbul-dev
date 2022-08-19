@@ -14,3 +14,7 @@ Project:
 3. ThikThak(Service Providing)
 4. Smart Weight Scale(Restful Apis)
 5. Patient Automation Service (IMC Medical Center - Saudi Arabia)
+
+-------------------------------------------------
+Checkout my latest project [Spring Boot Angular Boilerplate]
+https://angular-boilerplate.azurewebsites.net/#/login
