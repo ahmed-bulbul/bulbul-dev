@@ -16,5 +16,7 @@ Project:
 5. Patient Automation Service (IMC Medical Center - Saudi Arabia)
 
 -------------------------------------------------
-Checkout my latest project [Spring Boot Angular Boilerplate]
-https://angular-boilerplate.azurewebsites.net/#/login
+Checkout my latest project [Spring Boot Angular Boilerplate] </br>
+https://angular-boilerplate.azurewebsites.net
+username: bulbul-dev
+password: bulbul-dev
