@@ -17,6 +17,6 @@ Project:
 
 -------------------------------------------------
 Checkout my latest project [Spring Boot Angular Boilerplate] </br>
-https://angular-boilerplate.azurewebsites.net
-username: bulbul-dev
+https://angular-boilerplate.azurewebsites.net </br>
+username: bulbul-dev </br>
 password: bulbul-dev
