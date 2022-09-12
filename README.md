@@ -1,6 +1,6 @@
 I am Bulbul Ahmed, Software Engineer at Walton Group. I have 3 years of professional experience in Java/J2EE development. I have worked on 4+ projects on java. Currently, I am developing HRMS software which is very large-scale software. 
 
-The Technology I know: 
+The Technology that I know: 
 --------------------------------------
 Java, Spring Boot, Jpa, Hibernate, Jwt, Spring Security, Microservice, Jasper Report, 
 Angular, HTML,CSS,Thymleaf,Ajax
